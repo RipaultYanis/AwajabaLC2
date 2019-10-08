@@ -1,1 +1,10 @@
-test
+import java.time.LocalDate;
+
+class Repas{
+	
+	
+	private int numero;
+	private LocalDate date;
+	
+	
+}
